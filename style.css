@@ -75,7 +75,7 @@ h5 {
   width: 90px;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1348px) {
   main {
     margin: 20px;
   }
@@ -113,10 +113,10 @@ h5 {
   }
 }
 
-@media screen and (min-width: 1440px) {
+@media screen and (min-width: 1349px) {
   main {
     margin: 100px 150px 150px 150px;
-    height: 100px;
+    height: 300px;
     display: -ms-grid;
     display: grid;
     -ms-grid-columns: (1fr)[4];
